@@ -1,0 +1,7 @@
+mgwr==2.1.2
+libpysal==4.8.0
+numpy
+pandas
+scikit-learn
+statsmodels
+geopandas
